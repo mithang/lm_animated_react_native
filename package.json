@@ -19,7 +19,8 @@
     "react-native": "0.71.8",
     "react-native-svg": "^13.9.0",
     "flubber": "^0.3.0",
-    "react-native-vector-icons": "^4.2.0"
+    "react-native-vector-icons": "^4.2.0",
+    "react-native-reanimated": "~2.14.4"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

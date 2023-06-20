@@ -9,7 +9,7 @@ export default class animations extends Component {
     Animated.timing(this.state.animation, {
       toValue: 0,
       duration: 350,
-      useNativeDriver: true,// animation =t rue de cho native xu ly thay vi js xu ly
+      useNativeDriver: true,// animation =true de cho native xu ly thay vi js xu ly
     }).start(() => {
       Animated.timing(this.state.animation, {
         toValue: 1,
